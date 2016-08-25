@@ -3,6 +3,7 @@
     "displayName": "Oceanic Next Italic (Custom)",
     "description": "Customized Oceanic Next theme with italic flavours",
     "version": "1.1.14",
+    "publisher": "brianberlin",
     "engines": {
         "vscode": "^1.0.0"
     },
